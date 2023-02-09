@@ -17,7 +17,7 @@ todo
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Pytorch](https://img.shields.io/badge/Pytorch-%23FF6F00.svg?style=for-the-badge&logo=Pytorch&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-red.svg?style=for-the-badge&logo=Pytorch&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-blue.svg?style=for-the-badge&logo=Go&logoColor=white)
 
 # 📊 GitHub Stats:
