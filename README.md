@@ -20,7 +20,7 @@ todo
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-red.svg?style=for-the-badge&logo=Pytorch&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-blue.svg?style=for-the-badge&logo=Go&logoColor=white)
-![C/C++](https://img.shields.io/badge/C/C++-blue.svg?style=for-the-badge&logo=C++&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-blue.svg?style=for-the-badge&logo=Cpp&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=im-garriz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
