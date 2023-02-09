@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70404&background=C26AFF00&center=true&vCenter=true&width=435&lines=I%C3%B1aki+Mart%C3%ADnez+G%C3%A1rriz;AI+researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70404&background=C26AFF00&vCenter=true&width=435&lines=I%C3%B1aki+Mart%C3%ADnez+G%C3%A1rriz;AI+researcher)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
